@@ -1050,5 +1050,15 @@
     "author": "cddjr",
     "level": 1,
     "v2": true
+  },
+  "notifydownloader": {
+    "name": "notifydownloader",
+    "description": "notifydownloader",
+    "labels": "插件管理",
+    "version": "1.0",
+    "icon": "delete.jpg",
+    "author": "mickey50",
+    "level": 1,
+    "v2": true
   }
 }
